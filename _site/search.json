@@ -6,15 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-05T23:12:52+05:30"
+      "last_modified": "2021-03-14T15:07:08+05:30"
     },
     {
       "path": "index.html",
       "title": "abc_website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-05T23:12:53+05:30"
+      "contents": "\r\nI am a student at St. Clair college studying Data Analytics for Business.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-14T15:07:11+05:30"
     }
   ],
   "collections": []

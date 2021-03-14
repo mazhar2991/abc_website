@@ -13,3 +13,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+I am a student at St. Clair college studying Data Analytics for Business.
+
+![](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+
+```{r}
+plot(cars)
+```
+
